@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a796a10b-e806-4a63-876d-b106f5f673c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab05/Budynek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab05/Gatunek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab05/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Ksiazka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Ksiegarnia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Okrag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Podrecznik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Powiesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Punkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/SamochodOsobowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab06/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IDjkLC1FAJaBiYkRbLW9uHH7hh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Moryl\Wsiz\Lab03\src\Lab06" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab06" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a796a10b-e806-4a63-876d-b106f5f673c8" name="Changes" comment="" />
+      <created>1669723192082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669723192082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
